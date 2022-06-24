@@ -1,0 +1,21 @@
+body{
+    background-color:ghostwhite;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#age,#type {
+    color: cadetblue;
+}
+#asterisks{
+    color: darkred;
+}
+span{
+    color: darkolivegreen;
+    font-size: 30px ;
+}
+#input{
+    background-color:khaki;
+}
